@@ -1,5 +1,5 @@
 # Optimizing Web APIs with Stored Procedures and Pagination
-
+![Pagination Example](https://github.com/AlienWashim/Optimizing-Web-APIs-with-Stored-Procedures-and-Pagination/blob/c9d849852e1cca3dc7e7770b744416e9ee27c10b/PaginatedSample.png)
 ## What is Pagination?
 Pagination is the process of dividing a large dataset into smaller, manageable chunks or pages. When fetching data from a database, instead of retrieving all records at once, pagination ensures only a subset of records is returned, often controlled by parameters like pageNumber and pageSize.
 
